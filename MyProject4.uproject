@@ -54,5 +54,12 @@
 			"Name": "TextureFormatOodle",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"HoloLens",
+		"Linux",
+		"LinuxArm64",
+		"TVOS",
+		"Windows"
 	]
 }
